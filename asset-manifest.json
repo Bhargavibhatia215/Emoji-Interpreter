@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Emoji-Interpreter/static/css/main.eea42d5c.css",
+    "main.js": "/Emoji-Interpreter/static/js/main.462eeed6.js",
+    "static/media/Background.jpg": "/Emoji-Interpreter/static/media/Background.db5e8c916b98596ad64d.jpg",
+    "index.html": "/Emoji-Interpreter/index.html",
+    "main.eea42d5c.css.map": "/Emoji-Interpreter/static/css/main.eea42d5c.css.map",
+    "main.462eeed6.js.map": "/Emoji-Interpreter/static/js/main.462eeed6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eea42d5c.css",
+    "static/js/main.462eeed6.js"
+  ]
+}
